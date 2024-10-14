@@ -1,0 +1,20 @@
+/* Example CSS for your design */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+button {
+    background-color: #6DD47E;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+}
