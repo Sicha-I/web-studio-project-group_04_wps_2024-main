@@ -13,7 +13,7 @@
         <button>Media</button>
         <button>Database Admin</button>
         <button>IT Support</button>
-        <button>Barista</button>
+        <button>Test</button>
         <!-- Add more buttons here -->
     </div>
     <h2>Meet Our Mentors</h2>
